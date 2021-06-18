@@ -1,6 +1,6 @@
 ---
 title: "활동"
 permalink: /details/
-layout: posts
+layout: details
 author_profile: true
 ---
